@@ -2368,7 +2368,7 @@
 							<Item Name="Plain Text" Foreground="0x00D4DED6" Background="0x001F1E17" BoldFont="No"/>
 							<Item Name="Selected Text" Foreground="0x00000000" Background="0x005F1B5C" BoldFont="No"/>
 							<Item Name="Inactive Selected Text" Foreground="0x00808080" Background="0x00000000" BoldFont="No"/>
-							<Item Name="Indicator Margin" Foreground="0x02000000" Background="0x001F1E17" BoldFont="No"/>
+							<Item Name="Indicator Margin" Foreground="0x02000000" Background="0x0013130F" BoldFont="No"/>
 						</Items>
 					</Category>
 					<Category GUID="{5C48B2CB-0366-4FBF-9786-0BB37E945687}" FontName="Consolas" FontSize="12" CharSet="0" FontIsDefault="No">
